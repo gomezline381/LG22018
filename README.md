@@ -34,3 +34,8 @@ El último ejercicio del repositorio se centra en la operación de división ent
   - El programa carga el divisor y el dividendo en los registros correspondientes.
   - Realiza la división utilizando la instrucción div.
   - Imprime un mensaje y muestra el resultado de la división en la pantalla.
+
+
+NOMBRE: José Arnoldo Lanadverde Gómez 
+Carnet: LG22018 
+Grupo: 2
