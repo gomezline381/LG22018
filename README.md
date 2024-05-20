@@ -36,6 +36,6 @@ El último ejercicio del repositorio se centra en la operación de división ent
   - Imprime un mensaje y muestra el resultado de la división en la pantalla.
 
 
-**Nombre:** José Arnoldo Lanadverde Gómez  
+**Nombre:** José Arnoldo Landaverde Gómez  
 **Carnet:** LG22018  
 **Grupo:** 2
